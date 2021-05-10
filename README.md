@@ -11,8 +11,9 @@ This had to include several components, a router, a clear plan with wireframes a
 https://tipple-your-fancy-mikeedwards.netlify.app
 
 
-<h3>Demo of app</h3>
+<h3>Demo of Homepage</h3>
 
+![fancy-a-tipple-home](https://user-images.githubusercontent.com/77836499/117703744-e8f35e00-b1c1-11eb-9a34-56852ddebc03.gif)
 
 
 
@@ -94,6 +95,11 @@ Once we were able to display some data on the page we decided to form these retu
 **Cocktail Show**
 
 To create the CocktailShow page we firstly used a GET request to grab the data from the individual cocktail but used Params in order to grab the specific cocktail from the id. From here we could set the cocktail to state and then pass in the data we wanted to display into the JSX.
+
+Demo of search and show components:
+
+![tipple-search](https://user-images.githubusercontent.com/77836499/117704010-3ff93300-b1c2-11eb-9737-7fc221d66cc9.gif)
+
 
 **Cocktails by A-Z**
 
